@@ -33,11 +33,18 @@ Run the script LAB01_UI22EC58.m in MATLAB to generate and visualize the signals.
 Example Output
 Below are some example outputs from running the MATLAB code:
 
-Continuous Signal
+Continuous Signal  ![image](https://github.com/user-attachments/assets/2d6eeb9a-78be-42e0-b714-8c7b15bc85d7)
 
-Discrete Signal
 
-Sine Wave
+Discrete Signal  ![image](https://github.com/user-attachments/assets/a4b2db48-4ad4-4b69-9aff-3deb493358fe)
+
+
+Sine Wave  ![image](https://github.com/user-attachments/assets/32ba6109-920c-4330-bfb1-97b72f6b119b)
+
+Cosine Wave  ![image](https://github.com/user-attachments/assets/cc144f8f-2724-43d8-b3b6-bc42d7e0b57c)
+
+Square Wave  ![image](https://github.com/user-attachments/assets/1af02fcd-5114-4f38-b72d-b7e765a792d2)
+
 
 Contributing
 Feel free to contribute by adding more signal types or enhancing the plots.
