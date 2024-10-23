@@ -25,7 +25,7 @@ The MATLAB code plots all the signal types mentioned above, using simple `plot` 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SignalPlotter-UI22EC58.git
+   git clone https://github.com/RAHULPATEL2002/Wireless-Signal-Visualization.git
 Open the MATLAB script in your MATLAB environment.
 Usage
 Run the script LAB01_UI22EC58.m in MATLAB to generate and visualize the signals.
